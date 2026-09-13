@@ -1,4 +1,12 @@
 * [首页](/)
-* 基础
-  * [什么是中兽医](notes/什么是中兽医.md)
-  * [经络与穴位入门](notes/经络与穴位入门.md)
+* 文献索引
+  * [在线数据库入口](literature/在线数据库入口.md)
+  * [我的书单](literature/我的书单.md)
+  * [按主题索引](literature/按主题索引.md)
+* 笔记区
+  * [中兽医基础](notes/中兽医基础.md)
+  * [临床与诊疗](notes/临床与诊疗.md)
+  * [实习见闻](notes/实习见闻.md)
+* 心得与复盘
+  * [周复盘](reflections/周复盘.md)
+  * [疑问收集](reflections/疑问收集.md)
